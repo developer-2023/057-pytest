@@ -4,6 +4,8 @@ import pytest
 # pip install pytest
 # pytest test_calculator.py
 
+# 6:47:15 Harvard CS50’s Introduction to Programming with Python – Full University Course
+
 def test_positive():
     assert square(2) == 4
     assert square(3) == 9
